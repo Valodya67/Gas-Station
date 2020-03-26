@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\bin\Debug\AkaryakıtİstasyonuOtomasyonu.exe.config
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\bin\Debug\AkaryakıtİstasyonuOtomasyonu.exe
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\bin\Debug\AkaryakıtİstasyonuOtomasyonu.pdb
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.Form1.resources
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.Properties.Resources.resources
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.exe
+C:\Users\Asus\Desktop\EgemenProje(DOKUNMA!)\AkaryakıtİstasyonuOtomasyonu\AkaryakıtİstasyonuOtomasyonu\obj\Debug\AkaryakıtİstasyonuOtomasyonu.pdb
